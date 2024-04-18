@@ -8,7 +8,7 @@ heat shrink tubing provides a neater finish as well as giving additional
 protection.
 
 ![Image showing bare trap with glands attached above a trap fully 
-encased in heatshrink](/images1.jpg)
+encased in heatshrink](/image1.jpg)
 
 I recommend threading the antenna wire through the gland and the 2 
 smaller strain-relief holes on the PCB. The hole in the side of the 
